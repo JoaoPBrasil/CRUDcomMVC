@@ -1,4 +1,4 @@
-# CRUDcomMVC
+# CRUD com MVC
 
 A simple CRUD application built using ASP.NET Core MVC, demonstrating common practices in modern web applications.
 
