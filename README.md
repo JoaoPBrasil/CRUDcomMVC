@@ -12,14 +12,14 @@ A simple CRUD application built using ASP.NET Core MVC, demonstrating common pra
 - **AutoMapper**
 - **FluentValidation**
 
-## 🚀 How to Run the Project
+## 🚀 Project Structure
 
 ### Prerequisites
 
 - **.NET SDK 7.0** or higher
 - **SQL Server** or **Docker**
 
-### 🧩 Project Structure
+### Structure
 
 - Controllers: MVC controllers
 - Models: Entities and DTOs
